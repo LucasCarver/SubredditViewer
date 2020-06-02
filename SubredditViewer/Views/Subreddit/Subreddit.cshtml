@@ -1,0 +1,9 @@
+﻿@model List<RedditPost>
+@foreach (RedditPost rp in Model)
+{
+    string urlString = "https://www.reddit.com" + rp.permalink;
+    <a href="@urlString">
+        <p>@rp.title</p>
+        <img src="@rp.thumbnail" style="width:200px" />
+    </a>
+}

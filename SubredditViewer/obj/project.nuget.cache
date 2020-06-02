@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/J2C96xlhiiSOWsOsNoZ/59GoDM0Xs6P8zkX29qjAsQAFn0+zdyx6loI7cMpOpVohPRigMQI/zxsFjyiqw0kog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imWUMPUS\\source\\repos\\SubredditViewer\\SubredditViewer\\SubredditViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imWUMPUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\imWUMPUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
